@@ -1,4 +1,8 @@
-# Learning_PROLOG
+# Learning Prolog language
+
+## To run this project you will need
+
+[swi-pl compiler](https://www.swi-prolog.org/)
 
 ## Bibliographic references
 
