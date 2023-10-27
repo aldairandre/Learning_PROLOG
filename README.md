@@ -1,6 +1,6 @@
 # Learning_PROLOG
 
-Bibliographic references
+## Bibliographic references
 
 SILVEIRO, S. R. et al. PARADIGMAS DE PROGRAMAÇÃO: UMA INTRODUÇÃO.
 Belo Horizonte, MG: Synapse Editora, 2021
